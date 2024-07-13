@@ -1,0 +1,16 @@
+V1
+2:GetPayment,Q
+2:id,m
+2:p,n
+2:Generate,x
+2:CardMethod,q
+2:minPrice,t
+2:cardTax,f
+2:maxParcels,X
+2:payment,I
+2:Unit,C
+2:Test,E
+2:ApiMetodosPagamento,u
+2:s1900754892,K
+2:t1900754892,P
+1:1,ApiMetodosPagamento.Test.Unit,u_.E_.C_,K_,P_
